@@ -4,3 +4,148 @@
 	<fstream>
 	<jsoncpp/json/json.h>
 
+1556311836 source:d:\source\c++\parsejsoncpp\main.cpp
+	<iostream>
+	<fstream>
+	"rapidjson/document.h"
+	"rapidjson/writer.h"
+	"rapidjson/stringbuffer.h"
+	<string.h>
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\document.h
+	"reader.h"
+	"internal/meta.h"
+	"internal/strfunc.h"
+	"memorystream.h"
+	"encodedstream.h"
+	<new>
+	<limits>
+	<iterator>
+	<utility>
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\reader.h
+	"allocators.h"
+	"stream.h"
+	"encodedstream.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strtod.h"
+	<limits>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<stdexcept>
+	"rapidjson/error/error.h"
+	"rapidjson/reader.h"
+	"error/error.h"
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\allocators.h
+	"rapidjson.h"
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\rapidjson.h
+	<cstdlib>
+	<cstring>
+	"rapidjson/..."
+	<string>
+	"msinttypes/stdint.h"
+	"msinttypes/inttypes.h"
+	<stdint.h>
+	<inttypes.h>
+	<endian.h>
+	"rapidjson/..."
+	<cassert>
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\msinttypes\stdint.h
+	<stdint.h>
+	<limits.h>
+	<wchar.h>
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\msinttypes\inttypes.h
+	"stdint.h"
+	<inttypes.h>
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\stream.h
+	"rapidjson.h"
+	"encodings.h"
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\encodings.h
+	"rapidjson.h"
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\encodedstream.h
+	"stream.h"
+	"memorystream.h"
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\memorystream.h
+	"stream.h"
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\internal\meta.h
+	"../rapidjson.h"
+	<type_traits>
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\internal\stack.h
+	"../allocators.h"
+	"swap.h"
+	<cstddef>
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\internal\swap.h
+	"../rapidjson.h"
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\internal\strtod.h
+	"ieee754.h"
+	"biginteger.h"
+	"diyfp.h"
+	"pow10.h"
+	<climits>
+	<limits>
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\internal\ieee754.h
+	"../rapidjson.h"
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\internal\biginteger.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\internal\diyfp.h
+	"../rapidjson.h"
+	<limits>
+	<intrin.h>
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\internal\pow10.h
+	"../rapidjson.h"
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\error\error.h
+	"../rapidjson.h"
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\internal\strfunc.h
+	"../stream.h"
+	<cwchar>
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\writer.h
+	"stream.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strfunc.h"
+	"internal/dtoa.h"
+	"internal/itoa.h"
+	"stringbuffer.h"
+	<new>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\internal\dtoa.h
+	"itoa.h"
+	"diyfp.h"
+	"ieee754.h"
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\internal\itoa.h
+	"../rapidjson.h"
+
+1556309822 d:\source\c++\parsejsoncpp\rapidjson\stringbuffer.h
+	"stream.h"
+	"internal/stack.h"
+	<utility>
+	"internal/stack.h"
+
