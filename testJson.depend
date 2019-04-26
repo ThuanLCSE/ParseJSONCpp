@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556274129 source:/home/thuan/Desktop/testJson/main.cpp
+	<iostream>
+	<fstream>
+	<jsoncpp/json/json.h>
+
